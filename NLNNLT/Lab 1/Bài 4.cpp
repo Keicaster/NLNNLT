@@ -1,0 +1,1 @@
+// prototype: B sosanhtuoi(D1,M1,Y1,D2,M2,Y2)

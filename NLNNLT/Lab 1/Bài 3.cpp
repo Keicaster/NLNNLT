@@ -1,0 +1,1 @@
+// prototype: B sosanhdientich(E,R)

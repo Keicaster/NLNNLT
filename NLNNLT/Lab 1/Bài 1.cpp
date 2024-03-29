@@ -1,0 +1,1 @@
+// protype: d tong(a,b,c)
